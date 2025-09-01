@@ -12,3 +12,5 @@ Here are a few things about me:
 - 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/eurimar-cunha/
 - 🖥️ Check out my Portfolio: https://www.behance.net/eurimarcunha
 - 🎵 Fun fact: I love mixing Brazilian culture and social responsibility in creative projects.
+
+Comitando pela primeira vez por linha de comando.
